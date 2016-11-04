@@ -1,4 +1,4 @@
  body{ background-color: #FF99FF;}
 h2 {
   color: red;}
-h2{border-style: green ;}
+h2{border-style:dashed;border-color:green;}
